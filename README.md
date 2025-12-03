@@ -87,22 +87,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/sbuegonz00/sbuegonz00/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sbuegonz00.sbuegonz00&"  />
-</div>
-###
-<div align="center">
-  <a href="https://open.spotify.com/user/SalvA">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=SalvA&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
