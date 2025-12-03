@@ -1,3 +1,5 @@
+# README.md
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -10,7 +12,23 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+  📚 I'm currently learning mobile app development, advanced backend and frontend.<br>
+  🎯 Goals: Keep improving as a developer and launch innovative tech projects.<br>
+  🥊 Fun fact: I'm a huge fan of boxing and cars; I never miss a big fight or a good auto show!
+</p>
+
+###
+
+<h2 align="left">Projects</h2>
+
+###
+
+<ul align="left">
+  <li>
+    <strong>Meta Forces</strong>
+  </li>
+</ul>
 
 ###
 
@@ -78,4 +96,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sbuegonz00.sbuegonz00&"  />
 </div>
-
