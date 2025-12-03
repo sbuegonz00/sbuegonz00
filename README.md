@@ -31,12 +31,16 @@
 </ul>
 
 ###
+<h2 align="left ">📲 Contact Me </h2>
+
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/salvador-bueno-gonz%C3%A1lez-211053388/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/623158146331967517" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
@@ -95,4 +99,10 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sbuegonz00.sbuegonz00&"  />
+</div>
+###
+<div align="center">
+  <a href="https://open.spotify.com/user/SalvA">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=SalvA&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
