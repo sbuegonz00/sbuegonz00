@@ -26,7 +26,8 @@
 
 <ul align="left">
   <li>
-    <strong>Meta Forces</strong>
+    <strong>*Project 1: Meta-Force a inteligent gym*</strong>
+    <a>* An intermodular project for the DAM higher degree program built with Angular, Express, and PostgreSQL focused on gym management. Features include administrative tools for gym operations and a client-facing section with AI-powered workout and diet plan generation. Developed in collaboration with <a href = "https://github.com/Mariogarluu">@sbuegonz00</a> and <a href = "https://github.com/sgarrui1201">@sgarrui1201</a>. Check it out <a href = "https://github.com/Mariogarluu/Meta-Force-App">here</a>.</a>
   </li>
 </ul>
 
